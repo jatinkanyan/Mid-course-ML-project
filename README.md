@@ -125,18 +125,12 @@ Managers need reliable predictions of daily sales that consider promotions, holi
 
 ---
 
-## 📁 References
-
-- [Rossmann Store Sales Competition – Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales)
-- Coursework materials
-
 ---
 
 ## 👋 Contact
 
-📧 [Your Email Here]  
-🔗 [LinkedIn / Portfolio / GitHub Profile Links]
+📧 [JatinKanyan11@gmail.com]  
 
----
+
 
 
